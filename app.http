@@ -1,0 +1,9 @@
+
+GET https://localhost:7261/
+Accept: application/x-memorypack
+
+###
+
+GET https://localhost:7261/result
+Accept: application/x-memorypack
+
